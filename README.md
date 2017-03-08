@@ -1,0 +1,3 @@
+# vundlevim
+
+my vim config
